@@ -1,0 +1,18 @@
+::-webkit-scrollbar {
+  display: none;
+}
+
+#blogs-widget {
+  height: 305px;
+  overflow-y: scroll;
+}
+
+.title {
+  font-size: 17pt;
+  font-weight: 700;
+  margin-top: -10px;
+}
+
+.card-footer .btn {
+  float: right;
+}

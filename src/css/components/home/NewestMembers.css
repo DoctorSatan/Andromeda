@@ -1,0 +1,24 @@
+#newest-member-widget img {
+  width: 100px;
+  height: 100px;
+  margin: 5px 5px 0 5px;
+}
+
+#newest-member-widget .btn {
+  padding: 2px 5px;
+  font-size: 0.8em;
+  border: 1px solid #ccc;
+}
+
+#newest-member-widget .media {
+  margin-top: 5px;
+  border-bottom: 1px solid #ccc;
+}
+
+#newest-member-widget .media-body {
+  padding: 0 5px;
+}
+
+#newest-member-widget .btn:not(:last-of-type) {
+  margin-right: 3px;
+}

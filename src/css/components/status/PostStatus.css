@@ -1,0 +1,9 @@
+#collapse-post-status {
+  float: right;
+}
+
+#post-status-button {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  float: right;
+}
